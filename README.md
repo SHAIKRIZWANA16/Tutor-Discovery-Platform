@@ -173,5 +173,7 @@ Response: JSON array of tutor objects from MySQL.
 - Admin panel to manage tutors and subjects.
 
 ## 📸 Screenshots
+### Home page 
+![home page](screenshots/Home.png)
 
 
