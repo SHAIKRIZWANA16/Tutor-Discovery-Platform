@@ -1,3 +1,7 @@
+![GitHub Repo Size](https://img.shields.io/github/repo-size/SHAIKRIZWANA16/tutor-discovery-platform)
+![GitHub Stars](https://img.shields.io/github/stars/SHAIKRIZWANA16/tutor-discovery-platform)
+![GitHub Forks](https://img.shields.io/github/forks/SHAIKRIZWANA16/tutor-discovery-platform)
+![Last Commit](https://img.shields.io/github/last-commit/SHAIKRIZWANA16/tutor-discovery-platform)
 # Tutor Discovery Platform
 
 A full‑stack **Home Tutor Finder** web application that helps students and parents in **Khammam** find local home tutors by **class (6–10)** and **subject (Math, Science, English, Social, Telugu)** and contact them directly (no mediators).
